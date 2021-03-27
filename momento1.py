@@ -28,9 +28,9 @@
     
 
 #--------------------------------------------------Punto 2---------------------------------------------
-vVehiculo=float(input("Ingrese el valor del vehiculo: "))
-vmensual=(vVehiculo/12)*0.018
-print("Cuota Mensual:",vmensual)
-tPagarA=(vmensual*12)*0,13
-print("Valor Anual: ",tPagarA)
+#vVehiculo=float(input("Ingrese el valor del vehiculo: "))
+#vmensual=(vVehiculo/12)*0.018
+#print("Cuota Mensual:",vmensual)
+#tPagarA=(vmensual*12)*0,13
+#print("Valor Anual: ",tPagarA)
 
